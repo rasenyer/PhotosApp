@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotosApp</string>
+    <string name="home">Home</string>
+    <string name="album_id">Album Id:\u0020</string>
+    <string name="photo_id">Photo Id:\u0020</string>
+    <string name="title">Title:\u0020</string>
+</resources>
