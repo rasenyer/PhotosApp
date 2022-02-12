@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">FotosApp</string>
     <string name="home">Inicio</string>
+    <string name="detail">Detalle</string>
     <string name="album_id">Álbum Id:\u0020</string>
     <string name="photo_id">Foto Id:\u0020</string>
     <string name="title">Título:\u0020</string>

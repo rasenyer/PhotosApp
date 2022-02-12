@@ -1,6 +1,7 @@
 package com.rasenyer.photosapp.data.remote.model
 
 import com.google.gson.annotations.SerializedName
+import java.io.Serializable
 
 data class Photo(
 
@@ -13,4 +14,4 @@ data class Photo(
     @SerializedName("url")
     val url: String
 
-)
+): Serializable
